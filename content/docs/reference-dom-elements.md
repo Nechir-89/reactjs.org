@@ -1,6 +1,6 @@
 ---
 id: dom-elements
-title: DOM Elements
+title: DOM Elements - Differences In Attributes
 layout: docs
 category: Reference
 permalink: docs/dom-elements.html
